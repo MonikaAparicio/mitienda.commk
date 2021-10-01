@@ -38,7 +38,7 @@ Como beneficio esta aplicación WEB facilitará la operación de las tiendas y s
 <p><a href="https://sharing.clickup.com/l/h/6-25109522-1/aea0eaa0fa0e738"> Enlace a ClickUp Space mitienda.com</p>
   
 <h1> Diagrama Casos de Uso</h1>
-<img src="https://user-images.githubusercontent.com/90462863/134532117-268ad238-8c87-40c1-bd33-dcf9f36528b2.png">
+<img src="https://user-images.githubusercontent.com/90462863/135692739-60fcd894-d751-41a5-a325-404be1cbae10.png">>
 
 <h1> Diagrama Entidad-Relacion</h1>
-<img src="Diagramas/relationEntity.jpg">
+<img src="https://user-images.githubusercontent.com/90462863/135692960-9ed1c2da-52be-4d69-adc6-a4e52988ef54.png">">
